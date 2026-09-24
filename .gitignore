@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Keep the uv Python version pin visible despite global dotfile ignore rules.
+!.python-version
