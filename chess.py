@@ -1,3 +1,5 @@
+print("Hello world")
+print("Hello world")
 
 import pygame, sys
 pygame.init()
